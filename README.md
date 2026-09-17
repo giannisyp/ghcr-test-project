@@ -6,7 +6,7 @@ Minimal project to test pushing a container image to GitHub Container Registry (
 
 - `app.py` — tiny script that prints a hello message and the current time
 - `Dockerfile` — packages `app.py` into a container image
-- `.github/workflows/build-push.yml` — GitHub Actions workflow that builds the image
+- `.github/workflows/build-push.yml` — GitHub Actions workflow that builds the image!
   and pushes it to `ghcr.io/<owner>/<repo>` on every push to `main`
 
 ## How to use
