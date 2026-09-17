@@ -14,7 +14,7 @@ Minimal project to test pushing a container image to GitHub Container Registry (
 1. Push this repo to GitHub.
 2. Go to the **Actions** tab and confirm the workflow runs (or trigger it manually
    via "Run workflow").
-3. Once it succeeds, check the **Packages** section in the repo sidebar (or
+3. Once it succeeds, check the **Packages** section in the repo sidebar (or!
    `github.com/<your-username>?tab=packages`) — you should see the image listed.
 4. Pull it to confirm:
 
